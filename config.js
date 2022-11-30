@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6282146218274'] //ur owner number
-global.ownername = "Riell Offc" //ur owner name
-global.developer = "Riell Offc" //nama lu
-global.ytname = "YT: Riellbotz offc" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
+global.vcardowner = ['6287833306677'] //ur owner number
+global.ownername = "Fahill Offc" //ur owner name
+global.developer = "Fahill Offc" //nama lu
+global.ytname = "YT: kontolodon" //ur yt chanel name
+global.socialm = "https://instagram.com/_pahilz26" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
-global.location = "kaltim" //ur location
+global.location = "jatim" //ur location
 
 //bot bomdy 
-global.owner = ['6282146218274'] //ur number
-global.ownernomer = "6282146218274" //ur number
-global.ownertag = '6282146218274' //ur tag number
-global.premium = ['6282146218274'] //ur premium number
-global.botname = 'Khurushi-𝘔𝘥' //ur bot name
-global.ownername = "riell offc"
+global.owner = ['6287833306677'] //ur number
+global.ownernomer = "6287833306677" //ur number
+global.ownertag = '6287833306677' //ur tag number
+global.premium = ['6287833306677'] //ur premium number
+global.botname = '𝑭𝒂𝒉𝒊𝒍-𝑩𝒐𝒕𝒛' //ur bot name
+global.ownername = "fahill offc"
 global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6281352724422"
-global.pulsa = "6282146218274"
+global.dana = "6287833306677"
+global.pulsa = "6287833306677"
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Oscar Bot" //ur sticker watermark author
-global.wm = "Jarot ofc" //ur watermark
+global.author = "Fahil Bot" //ur sticker watermark author
+global.wm = "Fahil ofc" //ur watermark
 
 // Other
 global.sessionName = 'Session'
